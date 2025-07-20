@@ -1,0 +1,11 @@
+EmployeeID,Experience(Years),Education,JobTitle,Location,Salary,predicted salary
+1,2,Bachelor,Data Analyst,New York,60000,56000
+2,5,Master,Software Engineer,San Francisco,120000,125000
+3,1,Bachelor,HR Assistant,Chicago,45000,40000
+4,8,PhD,Data Scientist,Boston,150000,160000
+5,3,Master,System Administrator,Dallas,75000,80000
+6,10,Bachelor,Project Manager,New York,130000,125000
+7,6,Master,Product Manager,San Francisco,140000,135000
+8,4,Bachelor,Software Engineer,Austin,90000,100000
+9,7,PhD,Research Scientist,Boston,145000,144000
+10,0,Bachelor,Intern,Chicago,35000,36000
