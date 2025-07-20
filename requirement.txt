@@ -1,0 +1,5 @@
+1 pandas
+2 matplotlib
+3 scikit-learn
+4 seaborn
+5 streamlit
